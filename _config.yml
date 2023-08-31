@@ -43,9 +43,9 @@ menu:
 # 站点运行开始时间.
 time:
   enable: false
-  year: 2019 # 年份
-  month: 06 # 月份
-  date: 28 # 日期
+  year: 2023 # 年份
+  month: 09 # 月份
+  date: 01 # 日期
   hour: 00 # 小时
   minute: 00 # 分钟
   second: 00 # 秒
@@ -124,10 +124,11 @@ video:
   showTitle: true
   title: 精彩视频
   url: # url和iframeUrl其中一个必填
-  iframeUrl: #在bilibili或者爱奇艺分享时选择iframe，然后填那个url来这里，sample: //player.bilibili.com/player.html?aid=669520137&bvid=BV1oa4y1L7mw&cid=234543483&page=1
+  iframeUrl: https://www.bilibili.com/video/BV1P841127gn/?share_source=copy_web&vd_source=f06e76155e41fe585aaf568f9b0a04f6
+  #在bilibili或者爱奇艺分享时选择iframe，然后填那个url来这里，sample: //player.bilibili.com/player.html?aid=669520137&bvid=BV1oa4y1L7mw&cid=234543483&page=1
   pic:
   thumbnails:
-  height: # 如：400
+  height: 400 # 如：400
   autoplay: false # 是否自动播放
   theme: '#42b983'
   loop: false # 是否循环播放
@@ -160,11 +161,11 @@ indexbtn:
 # icon/button will not show up if you leave the corresponding socialLink empty
 # 首页 banner 中的第二行个人信息配置，留空即不启用
 socialLink:
-  github:  https://github.com/blinkfox
-  email: 1181062873@qq.com
+  github:  https://github.com/wu3227834
+  email: 1724941011@qq.com
   facebook: # https://www.facebook.com/xxx
   twitter: # https://twitter.com/xxx
-  qq: 1181062873
+  qq: 1724941011
   weibo: # https://weibo.com/xxx
   zhihu: # https://www.zhihu.com/xxx
   rss: true # true、false
@@ -408,7 +409,7 @@ changyan:
 # 配置是否在 header 中显示 fork me on github 的图标，默认为true，你可以修改为你的仓库地址.
 githubLink:
   enable: true
-  url: https://github.com/blinkfox/hexo-theme-matery
+  url: https://github.com/wu3227834/hexo-theme-matery
   title: Fork Me
 
 # The configuration of the Twikoo comment module is not activated by default.
