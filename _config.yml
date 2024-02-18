@@ -244,7 +244,7 @@ sakura:
 
 # 是否激活页面鼠标星星跟随效果, 只在桌面版网页启用特效
 mouseStar:
-  enable: true
+  enable: false
 
   # 是否激活页面飘雪效果, 只在桌面版网页启用特效
 snowdown:
